@@ -1,0 +1,13 @@
+{
+  "name": "com.unity.git",
+  "displayName": "Git",
+  "version": "0.0.2-preview-6",
+  "unity": "2021.3",
+  "hideInEditor": true,
+  "samples": [],
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+  }
+}
